@@ -1,7 +1,7 @@
 # random-vacuum-cleaner
 Trabalho de Inteligência artificial.
-		<h1>Random Vacuum Cleaner 4 Places</h1>
-        <h1>Inteligencia Artificial - GCC128</h1>
+	<h2>Random Vacuum Cleaner 4 Places</h2>
+        <h2>Inteligencia Artificial - GCC128</h2>
 	<p>
           Nome: Alfredo Beneti Diani <br>
 		      Matrícula: 201611134 <br>
